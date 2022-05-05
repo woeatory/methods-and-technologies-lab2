@@ -10,6 +10,8 @@ ref: [link](https://www.programiz.com/dsa/circular-linked-list)
 
 ## Calculation of variant
 
+Group: IP-03
+
 Number in the list: 4
 
 4 mod 2 = 0
