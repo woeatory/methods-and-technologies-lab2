@@ -32,7 +32,7 @@ class CircularLinkedList:
     def insert(self, element, nodeIndex):
         if not isinstance(element, str):
             raise TypeError
-        if len(element) > 1:
+        if len(element) > 2:
             raise TypeError('Please, write char')
 
         if (nodeIndex > self.count) | (nodeIndex < 0):
